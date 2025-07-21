@@ -41,7 +41,11 @@ redirect_from:
   </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+  
 - [Dynamic hand gesture recognition based on multi-skeletal features for sign language recognition system](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7) , **Bohong Wu**, Zhiwen Deng, Qing Gao*, **ICIRA 2023**
+
+</div></div>
 
 # 📝 专利|Patents
 
