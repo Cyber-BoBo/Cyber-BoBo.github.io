@@ -22,8 +22,9 @@ redirect_from:
 
 
 # 🔥 新闻|News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 论文M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network被IEEE SMC接收。
+- *2025.04*: &nbsp;🎉🎉 发明专利《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》被授权。
+- *2025.04*: &nbsp;🎉🎉 发明专利《基于视频数据的多特征融合人物交互识别方法及装置》被授权。
 
 # 📝 论文|Papers
 
@@ -35,7 +36,7 @@ redirect_from:
   **Bohong Wu**, Qing Gao*, yuanchuan lai, Zhang Huiwen
 
   [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  - 提出了一种基于视觉、骨骼信息的面向视频人物交互识别的多流多特征网络，在MPHOI-72、CAD-120和Bimanual Actions等数据集上实现了良好性能。
   </div>
 </div>
 
