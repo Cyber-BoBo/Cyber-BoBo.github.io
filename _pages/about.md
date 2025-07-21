@@ -17,11 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是中山大学电子与通信工程学院空间智能实验室的硕士研究生，师从高庆副教授。
-本科毕业于中山大学电子与通信工程学院电子信息科学与技术专业。在学期间，多次获得学业奖学金。
-我的研究兴趣主要包括计算机视觉、机器人遥操作和具身智能。
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+本人目前正在攻读硕士学位，就读于中山大学电子与通信工程学院 <a href='https://sysu-sail.net/'>空间智能实验室</a>，师从 <a href='https://jimmyqing.github.io/'>高庆 副教授</a>。本科毕业于中山大学电子与通信工程学院电子信息科学与技术专业。在学期间，多次获得学业奖学金。研究方向主要包括人物交互识别、机器人遥操作和具身智能。
+<a href='https://scholar.google.com/citations?user=1xiFc3oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 新闻|News
