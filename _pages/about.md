@@ -28,7 +28,8 @@ redirect_from:
 
 # 📝 论文|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2025</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">SMC 2025</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,8 +41,7 @@ redirect_from:
   </div>
 </div>
 
-
-- [Dynamic hand gesture recognition based on multi-skeletal features for sign language recognition system](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7), **Bohong Wu**, Zhiwen Deng, Qing Gao*, **ICIRA 2023**
+- [Dynamic hand gesture recognition based on multi-skeletal features for sign language recognition system](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7) , **Bohong Wu**, Zhiwen Deng, Qing Gao*, **ICIRA 2023**
 
 # 📝 专利|Patents
 
