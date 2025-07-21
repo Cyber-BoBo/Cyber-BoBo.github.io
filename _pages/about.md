@@ -44,18 +44,16 @@ M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featu
 
 
 # 📝 发表专利|Patents
+- *2025.04*: 《基于视频数据的多特征融合人物交互识别方法及装置》  发明专利
+- *2025.04*: 《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》  发明专利
+
+# 📝 项目经历|Project
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 教育背景|Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2025.08 (now)*, 硕士, 电子与通信工程学院， 中山大学，深圳.
+- *2019.09 - 2023.06*, 本科, 电子与通信工程学院， 中山大学，深圳.
