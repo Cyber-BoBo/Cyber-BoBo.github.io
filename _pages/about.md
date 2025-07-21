@@ -21,12 +21,12 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=1xiFc3oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-# 🔥 新闻|News
+# 🔥 近期新闻|News
 - *2025.07*: &nbsp;🎉🎉 论文M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network被IEEE SMC接收。
 - *2025.04*: &nbsp;🎉🎉 发明专利《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》被授权。
 - *2025.04*: &nbsp;🎉🎉 发明专利《基于视频数据的多特征融合人物交互识别方法及装置》被授权。
 
-# 📝 论文|Papers
+# 📝 发表文章|Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2025</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,13 +43,13 @@ M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featu
 - [Dynamic hand gesture recognition based on multi-skeletal features for sign language recognition system](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7) , **Bohong Wu**, Zhiwen Deng, Qing Gao*, **ICIRA 2023**
 
 
-# 📝 专利|Patents
+# 📝 发表专利|Patents
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 教育背景|Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
