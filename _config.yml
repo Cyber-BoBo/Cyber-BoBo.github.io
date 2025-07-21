@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Bohong Wu"
+  name             : "吴波鸿|Bohong Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Sun Yat-sen University"
-  location         : "Shenzhen, China"
+  bio              : "中山大学|Sun Yat-sen University"
+  location         : "深圳，中国|Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1xiFc3oAAAAJ"
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :
