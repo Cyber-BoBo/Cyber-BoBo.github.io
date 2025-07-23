@@ -64,7 +64,7 @@ M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featu
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 获奖情况|Awards
 - *2024.12* 获深圳市智能机器人灵巧手大赛三等奖 
 - *2024.09* 获中山大学硕士研究生一等奖助金
 
