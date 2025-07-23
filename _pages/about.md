@@ -48,7 +48,17 @@ M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featu
 - *2025.04*: 《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》  发明专利
 
 # 📝 项目经历|Project
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2025</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network
+
+**Bohong Wu**, Qing Gao*, yuanchuan lai, Zhang Huiwen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 提出了一种基于视觉、骨骼信息的面向视频人物交互识别的多流多特征网络，在MPHOI-72、CAD-120和Bimanual Actions等数据集上实现了良好性能。
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
