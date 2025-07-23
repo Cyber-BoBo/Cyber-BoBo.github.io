@@ -48,15 +48,19 @@ M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featu
 - *2025.04*: 《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》  发明专利
 
 # 📝 项目经历|Project
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2025</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.06</div><img src='images/teleoperation_for_smart_ward.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network
+[智慧病房遥操作](https://cyber-bobo.github.io/)
 
-**Bohong Wu**, Qing Gao*, yuanchuan lai, Zhang Huiwen
+</div>
+</div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 提出了一种基于视觉、骨骼信息的面向视频人物交互识别的多流多特征网络，在MPHOI-72、CAD-120和Bimanual Actions等数据集上实现了良好性能。
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/teleoperation_on_RM65b.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[面向仓储物流场景的遥操作抓取](https://cyber-bobo.github.io/)
+
 </div>
 </div>
 
