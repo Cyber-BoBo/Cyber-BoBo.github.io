@@ -59,14 +59,15 @@ M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/teleoperation_on_RM65b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[面向仓储物流场景的遥操作抓取](https://cyber-bobo.github.io/)
+[面向仓储物流场景的遥操作抓取](https://cyber-bobo.github.io/PROJECT-teleoperation_on_RM65b)
 
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* 获深圳市智能机器人灵巧手大赛三等奖 
+- *2024.09* 获中山大学硕士研究生一等奖助金
+
 
 # 📖 教育背景|Educations
 - *2023.09 - 2025.08 (now)*, 硕士, 电子与通信工程学院， 中山大学，深圳.
