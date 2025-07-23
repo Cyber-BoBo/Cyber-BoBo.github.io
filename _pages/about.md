@@ -22,7 +22,7 @@ redirect_from:
 
 
 # 🔥 近期新闻|News
-- *2025.07*: &nbsp;🎉🎉 论文M^2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network被IEEE SMC接收。
+- *2025.07*: &nbsp;🎉🎉 论文M2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network被IEEE SMC接收。
 - *2025.04*: &nbsp;🎉🎉 发明专利《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》被授权。
 - *2025.04*: &nbsp;🎉🎉 发明专利《基于视频数据的多特征融合人物交互识别方法及装置》被授权。
 
